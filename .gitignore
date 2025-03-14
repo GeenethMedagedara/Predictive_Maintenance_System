@@ -1,0 +1,6 @@
+.idea/
+.venv/
+node_modules/
+__pycache__/
+models/
+scaler_data/
