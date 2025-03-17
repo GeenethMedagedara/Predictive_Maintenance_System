@@ -11,7 +11,7 @@ Modern industries lose billions due to unplanned equipment failures . This proje
 
 - [Features](#features)
 - [Tech Stack](#tech-stack)
-- [Installation](#installation)
+- [Installation](#setup--installation)
 - [How This Works](#how-this-works)
 - [Why Built](#why-this-is-built)
 
