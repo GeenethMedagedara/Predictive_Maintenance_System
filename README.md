@@ -1,6 +1,6 @@
 # Predictive Maintenance System & Anomaly Detection
 
-img
+![anomaly-sightseeker-1](https://github.com/user-attachments/assets/64ab2e51-d106-4235-a95c-2f585358385f)
 
 ---
 ## Overview
@@ -53,7 +53,7 @@ npm install
 
 Run the two notebooks data_exploration.ipynb and modeling.ipynb respectively 
 
-img
+![newLSTM](https://github.com/user-attachments/assets/e535379f-b837-40c5-83d2-03849854c915)
 
 4. Run the App
 ```
