@@ -1,3 +1,7 @@
+"""
+Handles the backend API for the Anomaly Detection application.
+"""
+
 import os
 import numpy as np
 import pandas as pd

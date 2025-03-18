@@ -1,3 +1,7 @@
+"""
+Handles time-series forecasting using LSTM.
+"""
+
 import numpy as np
 import joblib
 import tensorflow as tf

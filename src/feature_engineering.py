@@ -1,3 +1,7 @@
+"""
+Handles feature engineering for time-series data.
+"""
+
 import pandas as pd
 import numpy as np
 from scipy.fftpack import fft

@@ -1,3 +1,7 @@
+"""
+Handles data preprocessing and normalization.
+"""
+
 import os
 import joblib
 from sklearn.preprocessing import MinMaxScaler, StandardScaler

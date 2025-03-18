@@ -1,3 +1,7 @@
+"""
+Handles anomaly detection using Isolation Forest.
+"""
+
 import joblib
 import matplotlib.pyplot as plt
 import pandas as pd

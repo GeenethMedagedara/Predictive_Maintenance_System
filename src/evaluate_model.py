@@ -1,3 +1,7 @@
+"""
+Handles evaluation of the model and plotting of anomalies.
+"""
+
 from sklearn.metrics import precision_score, recall_score, f1_score
 import matplotlib.pyplot as plt
 import numpy as np
